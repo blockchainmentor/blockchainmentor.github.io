@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Michael Teter photo](/content/images/2016/06/headshot_small.jpeg)
+![Michael Teter photo](/assets/headshot_small.jpeg)
 
 **ICT Software and Infrastructure Developer with over 20 years of experience in multiple industries:**
 
